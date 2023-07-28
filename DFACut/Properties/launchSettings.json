@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DFACut": {
+      "commandName": "Project",
+      "commandLineArgs": "DFA1.txt DFA2.txt DFAOut.txt"
+    }
+  }
+}
